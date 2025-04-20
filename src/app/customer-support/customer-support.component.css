@@ -1,0 +1,55 @@
+.support-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  color: #0078d7;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1em;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  margin-top: 1em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 0.5em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 0.5em;
+  background-color: #fff;
+}
+
+.open {
+  color: green;
+}
+
+.closed {
+  color: red;
+}
